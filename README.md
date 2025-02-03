@@ -58,3 +58,10 @@ I'm a first-year **Computer Science student** at **Amal Jyothi College of Engine
 
 Thanks for stopping by! 😊 Feel free to connect and collaborate!
 
+<div align='center'>
+  
+  <em>""Talk is cheap. Show me the code." — Linus Torvalds 🚀</em>
+
+</div>
+
+
