@@ -1,5 +1,8 @@
-## 🚀 About Me
-I'm a first-year **Computer Science student** at **Amal Jyothi College of Engineering**. Passionate about **Cybersecurity, Python development, Java, C++, Game Development, UI/UX Design, and Data Analytics**. I love to build projects, explore new technologies, and contribute to the open-source community.
+<h1 align="center">Hey There, I'm Malavika Krishnan</h1>
+
+# 💫 About Me:
+Hi there! I’m a coding enthusiast with a passion for building things that make an impact. Here’s a bit about me:<br><br>💡 Skills & Interests<br><br>-Programming: Proficient in Python and SQL, with a focus on problem-solving and efficient coding.<br>-UI/UX Design: Enthusiastic about creating seamless, user-friendly interfaces that blend functionality with aesthetics.<br>-Curious Mind: Always exploring new technologies and creative ways to improve user experiences.<br><br>🛠️ Projects<br>I thrive on working on exciting projects that challenge me to innovate, grow, and push boundaries. Whether it’s backend logic, database management, or crafting intuitive interfaces, my repos reflect a mix of creativity and technical expertise.<br><br>🤝 Let’s Collaborate<br>I’m always open to collaboration—whether you’re working on an ambitious project, looking for a teammate, or just want to exchange ideas. Let’s connect and create something amazing together!<br>
+
 
 ## 🌟 What I Do
 - 🛠️ Build innovative projects in **Cybersecurity, AI, and Game Development**.
