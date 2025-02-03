@@ -28,7 +28,7 @@ I'm a first-year **Computer Science student** at **Amal Jyothi College of Engine
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Malavika-Krishnan&layout=compact&theme=radical)
 
 ## 🌍 Connect With Me
-- 💼 **LinkedIn**: [Profile](https://www.linkedin.com/in/malavika-krishnan-26b04b327)
+- 💼 **LinkedIn**: [MALAVIKA KRISHNAN](https://www.linkedin.com/in/malavika-krishnan-26b04b327)
 - 📷 **Instagram**: [@layel_k_manoj](https://instagram.com/layel_k_manoj)
 - 🌐 **Linktree**: [Profile](https://linktr.ee/layelkmanoj)
 - 📨 **Email**: [layelkmanoj@example.com](mailto:layelkmanoj@example.com)
