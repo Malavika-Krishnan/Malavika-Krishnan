@@ -27,9 +27,6 @@ I'm a first-year **Computer Science student** at **Amal Jyothi College of Engine
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Malavika-Krishnan&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Malavika-Krishnan&layout=compact&theme=radical)
 
-## 🌍 Connect With Me
-- 💼 **LinkedIn**: [MALAVIKA KRISHNAN](https://www.linkedin.com/in/malavika-krishnan-26b04b327)
-- 📨 **Email**: [krismaalu@gmail.com](mailto:krismaalu@gmail.com)
 
  ## 📊 My Contribution Graph
 
@@ -57,6 +54,12 @@ I'm a first-year **Computer Science student** at **Amal Jyothi College of Engine
 - 🌍 I love traveling and exploring new places.
 
 Thanks for stopping by! 😊 Feel free to connect and collaborate!
+
+## 🌍 Connect With Me
+- 💼 **LinkedIn**: [MALAVIKA KRISHNAN](https://www.linkedin.com/in/malavika-krishnan-26b04b327)
+- 📨 **Email**: [krismaalu@gmail.com](mailto:krismaalu@gmail.com)
+
+---
 
 <div align='center'>
   
