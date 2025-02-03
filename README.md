@@ -67,7 +67,7 @@ Thanks for stopping by! 😊 Feel free to connect and collaborate!
 
 <div align='center'>
   
-  <em>""Talk is cheap. Show me the code." — Linus Torvalds 🚀</em>
+  <em>"Talk is cheap. Show me the code." — Linus Torvalds 🚀</em>
 
 </div>
 
