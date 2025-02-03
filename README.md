@@ -1,12 +1,12 @@
   # Dive into My Coding Universe  🚀
  
-Hi there! I'm  <a href="https://www.linkedin.com/in/layelkmanoj/">Layel K Manoj</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="18px"> I'm first-year Computer Science student at <STRONG>Amal Jyothi College of Engineering</strong>. I am passionate about exploring the world of **Cybersecurity** and developing creative solutions through **Python**, my favorite programming language. Recently, I've also started coding in **Java** and **C++**, and I enjoy working on game development projects! Additionally, I have studied **UI/UX Design**, enhancing my ability to create user-centered, visually appealing applications.
+Hi there! I'm  <a href="https://www.linkedin.com/in//">MALAVIKA KRISHNAN</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="18px"> I'm first-year Computer Science student at <STRONG>Amal Jyothi College of Engineering</strong>. I am passionate about exploring the world of **DATA SCIENCE** and developing creative solutions through **Python**, my favorite programming language. Recently, I've also started coding in **Java** and **C++**, and I enjoy working on game development projects! Additionally, I have studied **UI/UX Design**, enhancing my ability to create user-centered, visually appealing applications.
 
 ---
 
 ## 📊 My Contribution Graph
 
-![Layel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LAYELKMANOJ&theme=merko&height=300)
+![MALAVIKAS's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Malavika-Krishnan&theme=merko&height=300)
 ## 💻 Tech Stack & Tools
 <div align="center">  
  
