@@ -63,6 +63,10 @@ Thanks for stopping by! 😊 Feel free to connect and collaborate!
 - 💼 **LinkedIn**: [MALAVIKA KRISHNAN](https://www.linkedin.com/in/malavika-krishnan-26b04b327)
 - 📨 **Email**: [krismaalu@gmail.com](mailto:krismaalu@gmail.com)
 
+
+<p align="center"> <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXV4cHRlc3I5bzNmYWM4NTUycXNuc3A2cWJyYzhmdTgzcHgwY3JjYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/GrRsjBSP3VT1XYzgzn/giphy.gif" width="104" height="104" />
+
+
 ---
 
 <div align='center'>
