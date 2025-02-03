@@ -9,7 +9,7 @@ I'm a first-year **Computer Science student** at **Amal Jyothi College of Engine
 
 ## 🛠️ Technologies & Tools
 ### Languages:
-- **Python** 🐍 | **Java** ☕ | **C++** 🔗 | **JavaScript** 🌐
+- **Python** 🐍 | **Java** ☕ | **C++** 🔗 | **JavaScript**
 
 ### Development & Tools:
 - **Git & GitHub** 🔥 | **VS Code** 🖥️ | **Linux** 🐧 | **Docker** 🐳 | **Bash** 💻
@@ -30,6 +30,12 @@ I'm a first-year **Computer Science student** at **Amal Jyothi College of Engine
 ## 🌍 Connect With Me
 - 💼 **LinkedIn**: [MALAVIKA KRISHNAN](https://www.linkedin.com/in/malavika-krishnan-26b04b327)
 - 📨 **Email**: [krismaalu@gmail.com](mailto:krismaalu@gmail.com)
+
+ ## 📊 My Contribution Graph
+
+![Malavika's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Malavika-Krishnan&theme=radical&height=300)
+## 💻
+<div align="center">  
 
 ## 🚀 Current Projects & Goals
 ### 🔥 Ongoing Projects:
