@@ -29,10 +29,7 @@ I'm a first-year **Computer Science student** at **Amal Jyothi College of Engine
 
 ## 🌍 Connect With Me
 - 💼 **LinkedIn**: [MALAVIKA KRISHNAN](https://www.linkedin.com/in/malavika-krishnan-26b04b327)
-- 📷 **Instagram**: [@layel_k_manoj](https://instagram.com/layel_k_manoj)
-- 🌐 **Linktree**: [Profile](https://linktr.ee/layelkmanoj)
-- 📨 **Email**: [layelkmanoj@example.com](mailto:layelkmanoj@example.com)
-- 💬 **Discord**: `layelkmanoj#1234`
+- 📨 **Email**: [krismaalu@gmail.com](mailto:krismaalu@gmail.com)
 
 ## 🚀 Current Projects & Goals
 ### 🔥 Ongoing Projects:
