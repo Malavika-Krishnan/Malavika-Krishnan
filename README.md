@@ -1,94 +1,58 @@
-  # Dive into My Coding Universe  🚀
- 
-Hi there! I'm  <a href="https://www.linkedin.com/in//">MALAVIKA KRISHNAN</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="18px"> I'm first-year Computer Science student at <STRONG>Amal Jyothi College of Engineering</strong>. I am passionate about exploring the world of **DATA SCIENCE** and developing creative solutions through **Python**, my favorite programming language. Recently, I've also started coding in **Java** and **C++**, and I enjoy working on game development projects! Additionally, I have studied **UI/UX Design**, enhancing my ability to create user-centered, visually appealing applications.
+## 🚀 About Me
+I'm a first-year **Computer Science student** at **Amal Jyothi College of Engineering**. Passionate about **Cybersecurity, Python development, Java, C++, Game Development, UI/UX Design, and Data Analytics**. I love to build projects, explore new technologies, and contribute to the open-source community.
 
----
+## 🌟 What I Do
+- 🛠️ Build innovative projects in **Cybersecurity, AI, and Game Development**.
+- 🔍 Constantly learning and improving my **problem-solving skills**.
+- 🎯 Participating in **Hackathons & Coding Competitions**.
+- 🤝 Contributing to **Open Source & Community Development**.
 
-## 📊 My Contribution Graph
+## 🛠️ Technologies & Tools
+### Languages:
+- **Python** 🐍 | **Java** ☕ | **C++** 🔗 | **JavaScript** 🌐
 
-![MALAVIKAS's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Malavika-Krishnan&theme=merko&height=300)
-## 💻 Tech Stack & Tools
-<div align="center">  
- 
-  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
+### Development & Tools:
+- **Git & GitHub** 🔥 | **VS Code** 🖥️ | **Linux** 🐧 | **Docker** 🐳 | **Bash** 💻
 
+### UI/UX & Design:
+- **Figma** 🎨 | **Adobe XD** 🖌️ | **Canva** 📐 | **Blender** 🏗️
 
-</div>
+### Interests:
+- **Game Development 🎮** (Unity, Unreal Engine)
+- **Cybersecurity 🔐** (CTF Challenges, Ethical Hacking)
+- **Data Analytics 📊** (Pandas, NumPy, Power BI)
+- **Artificial Intelligence 🤖** (Machine Learning, Neural Networks)
 
----
+## 📊 GitHub Stats & Contributions
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Malavika-Krishnan&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Malavika-Krishnan&layout=compact&theme=radical)
 
-## 🎨 Featured Projects
+## 🌍 Connect With Me
+- 💼 **LinkedIn**: [Profile](https://www.linkedin.com/in/layelkmanoj/)
+- 📷 **Instagram**: [@layel_k_manoj](https://instagram.com/layel_k_manoj)
+- 🌐 **Linktree**: [Profile](https://linktr.ee/layelkmanoj)
+- 📨 **Email**: [layelkmanoj@example.com](mailto:layelkmanoj@example.com)
+- 💬 **Discord**: `layelkmanoj#1234`
 
-### 🎮 [Game Development Project](https://github.com/LAYELKMANOJ)
-A fun and engaging game built using **Python** and **Pygame**, showcasing my love for creating interactive experiences. 
+## 🚀 Current Projects & Goals
+### 🔥 Ongoing Projects:
+- Building a **To-Do List** project on GitHub 📝
+- Exploring **Cybersecurity** & **Game Development** 🔍
+- Developing an **AI-Powered Chatbot 🤖**
+- Learning **Blockchain & Smart Contracts** ⛓️
 
-### 🔒 [Cybersecurity Toolkit](https://github.com/LAYELKMANOJ)
-A comprehensive collection of tools and scripts aimed at enhancing cybersecurity practices and learning.
+### 🎯 2025 Goals:
+- Contribute to **Open Source Projects** 🏆
+- Earn a **Cybersecurity Certification** 🔐
+- Master **Full-Stack Web Development** 💻
+- Develop a **Mobile App** 📱
 
-### 🎨 [UI/UX Portfolio](https://github.com/LAYELKMANOJ)
-A showcase of **UI/UX Design** projects, demonstrating my ability to design intuitive and user-friendly interfaces.Web designs is also my cup of coffee.
+## 🎉 Fun Facts About Me
+- 🎵 I love listening to **Lofi & EDM** while coding.
+- 🎨 I enjoy designing **Minimalist UI/UX**.
+- 🎮 I play **competitive online games** in my free time.
+- 🚀 I believe in **“Code More, Worry Less”**!
+- 🌍 I love traveling and exploring new places.
 
-### 📁 [Data Science](https://github.com/LAYELKMANOJ/Data-Science)
- Showcaseing the intreset in Data Analytics and Data science
-
-
-## 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=LAYELKMANOJ&show_icons=true&theme=merko)
-
-
-
-
----
-
-## 🌏 Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LAYELKMANOJ&layout=compact&theme=merko)
-
-
----
----
-## 🎯 My Coding Streak
-
-
-<div align="left">
- 
- ![GitHub Streak](https://streak-stats.demolab.com/?user=LAYELKMANOJ&theme=merko)
- 
-</div>
-
-
-## 🌟 Fun Facts About Me
-
-- 🔒 Cybersecurity enthusiast who loves problem-solving and exploring vulnerabilities.  
-- 🎮 Game developer bringing ideas to life through interactive code.  
-- 🎨 Passionate about crafting visually appealing UI/UX designs.  
-- ☕ What about coffee during coding ?  
-- 🚀 Continuously expanding my skillset by learning new programming languages and frameworks.
-
----
-
-
-
-
-## 🌐 Connect with Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/layelkmanoj) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/layel_k_manoj) [![Linktree](https://img.shields.io/badge/Linktree-%2300FF00?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/layelkmanoj)
-  
-
-</div>
-
-
----
-
-<div align='center'>
-  
-  <em>"The best way to predict the future is to invent it ." – Alan Kay</em>
-
-</div>
-
-              
+Thanks for stopping by! 😊 Feel free to connect and collaborate!
 
