@@ -33,9 +33,8 @@ I'm a first-year **Computer Science student** at **Amal Jyothi College of Engine
 
  ## 📊 My Contribution Graph
 
-![Malavika's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Malavika-Krishnan&theme=radical&height=300)
-## 💻
-<div align="center">  
+![Malavika's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Malavika-Krishnan&theme=merko&height=300)
+
 
 ## 🚀 Current Projects & Goals
 ### 🔥 Ongoing Projects:
