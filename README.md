@@ -61,7 +61,7 @@ Thanks for stopping by! 😊 Feel free to connect and collaborate!
 
 ## 🌍 Connect With Me
 <div align="center">
- <a href="www.linkedin.com/in/malavikakrishnan30/" style="text-decoration: none;">
+ <a href="www.linkedin.com/in/malavikakrishnan30" style="text-decoration: none;">
   <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/></a> <a href="https://mail.google.com/mail/?view=cm&fs=1&to=krismaalu@gmail.com" style="text-decoration: none;"><img src="https://img.icons8.com/fluency/48/000000/gmail.png" alt="Email" width="40" height="40"/></a>
 
 </div>
