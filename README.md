@@ -28,9 +28,10 @@
 - **Artificial Intelligence 🤖** (Machine Learning, Neural Networks)
 
 ## 📊 GitHub Stats & Contributions
+<div align="center">
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Malavika-Krishnan&show_icons=true&theme=radical)
 
-<div align="center">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Malavika-Krishnan&layout=compact&theme=radical)
 </div>
