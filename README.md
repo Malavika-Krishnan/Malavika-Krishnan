@@ -48,12 +48,6 @@
 - Developing an **AI-Powered Chatbot 🤖**
 - Learning **Blockchain & Smart Contracts** ⛓️
 
-### 🎯 2025 Goals:
-- Contribute to **Open Source Projects** 🏆
-- Earn a **Cybersecurity Certification** 🔐
-- Master **Full-Stack Web Development** 💻
-- Develop a **Mobile App** 📱
-
 ## 🎉 Fun Facts About Me
 - 🎵 I love listening to **Lofi & EDM** while coding.
 - 🎨 I enjoy designing **Minimalist UI/UX**.
