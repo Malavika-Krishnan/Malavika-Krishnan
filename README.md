@@ -21,7 +21,7 @@
 ### UI/UX & Design:
 - **Figma** 🎨 | **Adobe XD** 🖌️ | **Canva** 📐 | **Blender** 🏗️
 
-### Interests:
+### Interests: 
 - **Game Development 🎮** (Unity, Unreal Engine)
 - **Cybersecurity 🔐** (CTF Challenges, Ethical Hacking)
 - **Data Analytics 📊** (Pandas, NumPy, Power BI)
