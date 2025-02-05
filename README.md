@@ -77,3 +77,9 @@ Thanks for stopping by! 😊 Feel free to connect and collaborate!
 </div>
 
 ---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com//Malavika-Krishnan/Malavika-Krishnan/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com//Malavika-Krishnan//Malavika-Krishnan/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com//Malavika-Krishnan//Malavika-Krishnan/output/github-snake.svg" />
+</picture>
