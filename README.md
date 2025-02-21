@@ -12,6 +12,7 @@
 - 🤝 Contributing to **Open Source & Community Development**.
 
 ## 🛠️ Technologies & Tools
+
 ### Languages:
 - **Python** 🐍 | **Java** ☕ | **C++** 🔗 | **JavaScript**
 
