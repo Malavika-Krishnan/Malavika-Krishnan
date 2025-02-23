@@ -1,6 +1,5 @@
-<!--
-    Hey there, I'm Malavika Krishnan!
--->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header"/> 
+
 
 
 🚀 About Me
