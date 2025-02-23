@@ -84,4 +84,4 @@ Thanks for stopping by! 😊 Feel free to connect and collaborate!
   <img alt="github-snake" src="https://raw.githubusercontent.com//Malavika-Krishnan//Malavika-Krishnan/output/github-snake.svg" />
  ---
 </picture>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0446.gif" height="1px" width="1920"/>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0324.gif" height="1px" width="1920"/>
