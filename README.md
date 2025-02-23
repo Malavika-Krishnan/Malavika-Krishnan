@@ -86,3 +86,6 @@ Thanks for stopping by! 😊 Feel free to connect and collaborate!
   <img alt="github-snake" src="https://raw.githubusercontent.com//Malavika-Krishnan//Malavika-Krishnan/output/github-snake.svg" />
  ---
 </picture>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header"/> 
+
