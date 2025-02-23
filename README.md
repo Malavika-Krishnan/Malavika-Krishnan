@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header" alt="header"/> 
 
 <h1 align="center">Hey There, I'm Malavika Krishnan😊</h1>
 
