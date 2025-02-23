@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header" alt="header"/> 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
 
 <h1 align="center">Hey There, I'm Malavika Krishnan😊</h1>
 
@@ -87,5 +87,4 @@ Thanks for stopping by! 😊 Feel free to connect and collaborate!
  ---
 </picture>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" alt="header"/> 
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
