@@ -69,7 +69,6 @@ Thanks for stopping by! 😊 Feel free to connect and collaborate!
 <p align="center"> <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXV4cHRlc3I5bzNmYWM4NTUycXNuc3A2cWJyYzhmdTgzcHgwY3JjYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/GrRsjBSP3VT1XYzgzn/giphy.gif" width="104" height="104" />
 
 
----
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0324.gif" height="1px" width="1920"/>
 
 <div align='center'>
@@ -79,7 +78,6 @@ Thanks for stopping by! 😊 Feel free to connect and collaborate!
 </div>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0324.gif" height="1px" width="1920"/>
 
----
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com//Malavika-Krishnan/Malavika-Krishnan/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com//Malavika-Krishnan//Malavika-Krishnan/output/github-snake.svg" />
