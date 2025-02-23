@@ -1,6 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header"/> 
-
-
+<center>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Futura&pause=1000&color=750000&width=435&lines=Hey+There%2C+I'm+Malavika+Krishnan+%F0%9F%98%8A" alt="Typing SVG" /></a>
+</center>
 
 🚀 About Me
 
