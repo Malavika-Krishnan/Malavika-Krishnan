@@ -21,7 +21,6 @@
 
 ### UI/UX & Design:
 - **Figma** 🎨 | **Adobe XD** 🖌️ | **Canva** 📐 | **Blender** 🏗️
-- 
 
 ### Interests: 
 - **Game Development 🎮** (Unity, Unreal Engine)
