@@ -70,12 +70,14 @@ Thanks for stopping by! 😊 Feel free to connect and collaborate!
 
 
 ---
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0324.gif" height="1px" width="1920"/>
 
 <div align='center'>
   
   <em>"Talk is cheap. Show me the code." — Linus Torvalds 🚀</em>
 
 </div>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0324.gif" height="1px" width="1920"/>
 
 ---
 <picture>
@@ -84,4 +86,3 @@ Thanks for stopping by! 😊 Feel free to connect and collaborate!
   <img alt="github-snake" src="https://raw.githubusercontent.com//Malavika-Krishnan//Malavika-Krishnan/output/github-snake.svg" />
  ---
 </picture>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0324.gif" height="1px" width="1920"/>
