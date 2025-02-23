@@ -1,4 +1,7 @@
-<h1 align="center">Hey There, I'm Malavika Krishnan😊</h1>
+<!--
+    Hey there, I'm Malavika Krishnan!
+-->
+
 
 🚀 About Me
 
