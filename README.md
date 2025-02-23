@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header"/> 
 
-<a href="https://git.io/typing-svg" align='center'><img src="https://readme-typing-svg.demolab.com?font=Futura&size=35&pause=500&color=75596B&width=435&lines=Hey+There;+I'm+Malavika+Krishnan+%F0%9F%98%8A" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg" align="center"><img src="https://readme-typing-svg.demolab.com?font=Futura&size=35&pause=500&color=75596B&width=435&lines=Hey+There;+I'm+Malavika+Krishnan+%F0%9F%98%8A" alt="Typing SVG" /></a>
 
 
 🚀 About Me
