@@ -4,7 +4,6 @@
 
 🚀 About Me
 
-
 ✨ Hello, World! I'm a passionate Computer Science Enthusiast who loves exploring the realms of Cybersecurity, AI, Game Development, and UI/UX Design! 🌍💻.🔥 I thrive on solving complex problems and building innovative projects that make an impact. Let's create something awesome together!  🚀
 
 ## 🌟 What I Do
