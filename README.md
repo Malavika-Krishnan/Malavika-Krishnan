@@ -30,15 +30,6 @@
 - **Data Analytics 📊** (Pandas, NumPy, Power BI)
 - **Artificial Intelligence 🤖** (Machine Learning, Neural Networks)
 
-## 📊 GitHub Stats & Contributions
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Malavika-Krishnan&show_icons=true&theme=radical)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Malavika-Krishnan&layout=compact&theme=radical)
-</div>
-
  ## 📊 My Contribution Graph
 
 ![Malavika's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Malavika-Krishnan&theme=merko&height=300)
