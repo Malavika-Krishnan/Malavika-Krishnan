@@ -6,6 +6,7 @@
 
 ✨ Hello, World! I'm a passionate Computer Science Enthusiast who loves exploring the realms of Cybersecurity, AI, Game Development, and UI/UX Design! 🌍💻.🔥 I thrive on solving complex problems and building innovative projects that make an impact. Let's create something awesome together!  🚀
 
+---
 
 ## 🌟 What I Do
 - 🛠️ Build innovative projects in **Cybersecurity, AI and Game Development**.
@@ -13,16 +14,24 @@
 - 🎯 Participating in **Hackathons & Coding Competitions**.
 - 🤝 Contributing to **Open Source & Community Development**.
 
+---
+
 ## 🛠️ Technologies & Tools
 
 ### Languages:
 - **Python** 🐍 | **Java** ☕ | **C++** 🔗 | **JavaScript**
 
+---
+
 ### Development & Tools:
 - **Git & GitHub** 🔥 | **VS Code** 🖥️ | **Linux** 🐧 | **Docker** 🐳 | **Bash** 💻
 
+---
+
 ### UI/UX & Design:
 - **Figma** 🎨 | **Adobe XD** 🖌️ | **Canva** 📐 | **Blender** 🏗️
+
+---
 
 ### Interests: 
 - **Game Development 🎮** (Unity, Unreal Engine)
@@ -30,9 +39,18 @@
 - **Data Analytics 📊** (Pandas, NumPy, Power BI)
 - **Artificial Intelligence 🤖** (Machine Learning, Neural Networks)
 
+---
+
  ## 📊 My Contribution Graph
 
 ![Malavika's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Malavika-Krishnan&theme=merko&height=300)
+
+---
+ 
+<h2 align="center"><b>Github Stats</b></h2>
+<img src="https://github-readme-stats-alpha-snowy-32.vercel.app/api/top-langs/?username=Malavika-Krishnan&theme=transparent&include_all_commits=true&count_private=true&layout=compact&langs_count=10&hide_border=true" alt="Top Languages">
+
+
 
 
 ## 🚀 Current Projects & Goals
@@ -71,6 +89,7 @@ Thanks for stopping by! 😊 Feel free to connect and collaborate!
 </div>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0324.gif" height="1px" width="1920"/>
 
+<h2 align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com//Malavika-Krishnan/Malavika-Krishnan/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com//Malavika-Krishnan//Malavika-Krishnan/output/github-snake.svg" />
