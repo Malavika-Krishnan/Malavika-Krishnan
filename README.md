@@ -77,11 +77,6 @@ Thanks for stopping by! 😊 Feel free to connect and collaborate!
   <img alt="github-snake" src="https://raw.githubusercontent.com//Malavika-Krishnan//Malavika-Krishnan/output/github-snake.svg" />
 
  ---
- <h2 align="center"><b>Github Stats</b></h2>
-<img src="https://github-readme-stats-alpha-snowy-32.vercel.app/api/top-langs/?username=Malavika-Krishnan&theme=transparent&include_all_commits=true&count_private=true&layout=compact&langs_count=10&hide_border=true" alt="Top Languages">
-
-
- ---
 </picture>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
